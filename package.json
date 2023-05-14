@@ -1,0 +1,19 @@
+{
+  "name": "uts_kecerdasanbuatan_kelompok1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.ts"
+  },
+  "author": "Karunia Putri Hutami",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^5.0.0",
+    "@hapi/boom": "^10.0.1",
+    "nodemon": "^2.0.22",
+    "qrcode-terminal": "^0.12.0",
+    "ts-node": "^10.9.1"
+  }
+}
